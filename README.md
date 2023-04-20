@@ -10,7 +10,7 @@ Instalação
 3. Configure o arquivo `application.properties` com as configurações do banco de dados utilizado no projeto.
 
     ````
-    spring.datasource.url=jdbc:mysql://localhost:3306/store
+    spring.datasource.url=jdbc:mariadb://localhost:3306/store
     spring.datasource.username=usuario-do-banco
     spring.datasource.password=senha-do-banco
     spring.jpa.hibernate.ddl-auto=update
