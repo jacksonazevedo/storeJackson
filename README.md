@@ -40,7 +40,10 @@ O sistema possui as seguintes funcionalidades:
 * Java 17
 * Spring Boot 2.7.10
 * MariaDB
-* Maven 
+* Maven
+* Validations
+* Swagger
+* Lombok
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
