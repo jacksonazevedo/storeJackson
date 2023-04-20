@@ -1,5 +1,5 @@
 # Loja Jackson
-Este projeto é um exemplo simples de um sistema de gerenciamento de produtos, utilizando Java Spring Boot para criar um CRUD (Create, Read, Update, Delete) de produtos,  item venda e venda.
+Este projeto é um exemplo simples de um sistema de gerenciamento de produtos, utilizando Java Spring Boot para criar um CRUD (Create, Read, Update, Delete) de produtos.
 
 Instalação
 1. Clone o repositório para sua máquina local.
